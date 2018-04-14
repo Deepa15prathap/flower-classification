@@ -80,7 +80,7 @@ Below is a summary of the results of this project.  See the jupyter notebooks fo
 
 	Both SOTA architectures attained almost 100% accuracy when trained for 100 epochs.  ResNet50 attained 0.90 training and validation accuracies after only 12 epochs.  The validation accuracies are comparable between the two models but ResNet50 performed better on the test set.
 
-     						ACCURACY
+     					ACCURACY
 				Training	Validation	Test
 		VGG16		0.997		0.922		0.907
 		ResNet50	0.993		0.923		0.939
