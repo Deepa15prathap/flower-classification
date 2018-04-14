@@ -78,7 +78,7 @@ Below is a summary of the results of this project.  See the jupyter notebooks fo
 
 2. SOTA Architectures (VGG16 and ResNet50)
 
-	Both SOTA architectures attained almost 100% accuracy when trained for 100 epochs.  ResNet50 attained 0.90 training and validation accuracies after only 12 epochs.  The validation accuracies are comparable between the two models but ResNet50 performed better on the test set.
+	Both SOTA architectures attained almost 100% accuracy when trained for 100 epochs.  ResNet50 attained 0.90 training and validation accuracies after only 12 epochs.  The validation accuracies are comparable between the two models and both test accuracies were over .90.  ResNet50 performed better than VGG16 on the test set.  
 
      					ACCURACY
 				Training	Validation	Test
@@ -89,4 +89,4 @@ Below is a summary of the results of this project.  See the jupyter notebooks fo
 
 ### Final Remarks
 
-Pre-trained SOTA architectures can be used for image classification when there is a limited amount of training images available. This approach is called transfer learning.  Using data augmentation as a regularization tool in fine-tuning SOTA architectures, test accuracies of over 90% can be achieved. 
+Transfer learning of SOTA architectures can be used for image classification when there is a limited amount of training images available.  By fine-tuning SOTA architectures and using data augmentation for regularization, test accuracies of over 90% can be achieved. 
