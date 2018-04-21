@@ -60,7 +60,7 @@ The flower dataset consists of 3,670 heterogeneous (in size and appearance) pict
 
 5. Implementation
 
-	The models were were trained on GPU's in Amazon Web Services (AWS) EC2: 
+	The models were trained on GPU's in Amazon Web Services (AWS) EC2: 
 	
 	https://aws.amazon.com/ec2/
 	
