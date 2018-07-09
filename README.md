@@ -1,7 +1,5 @@
 # flower-classification
 
-**Disclaimer: This project reflects the views of the author and should not be construed to represent the U.S. Food and Drug Administration's views or policies.**
-
 This repository contains a brief overview of convolutional neural networks (CNNs) and transfer learning, and an application to the classification of flower images. We use the dataset from the TensorFlow website:   
 
 https://www.tensorflow.org/tutorials/image_retraining
